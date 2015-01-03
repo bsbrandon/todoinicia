@@ -7,3 +7,4 @@
  */
 phpinfo();
 echo "Hola como estas !!!";
+echo 'Hola cipote !!!';
